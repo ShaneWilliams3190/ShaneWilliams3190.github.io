@@ -6,7 +6,7 @@
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
-[<img src="images/food-delivery.jpeg?raw=true"/>](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
+[<img src="images/food-delivery.jpg?raw=true"/>](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
 Being a consumer that has used a similar delivery service for products, I was interested to see what insights I could find about shopper vs marketing.  I was surprised by a few things I found from the data and others were exactly what I expected. 
 
 
