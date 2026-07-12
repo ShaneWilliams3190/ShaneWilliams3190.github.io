@@ -22,8 +22,8 @@ Being a consumer that has used a similar delivery service for products, I was in
 ## *Tableau Projects*
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]()
+#### [Education Project](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
+[<img src="images/Massachusetts_Schools?raw=true"/>](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
