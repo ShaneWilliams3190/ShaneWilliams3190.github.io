@@ -2,8 +2,6 @@
 
 ---
 
-## **Learn About My Projects**
-
 ---
 ## *Mirosoft Excel Projects*
 
