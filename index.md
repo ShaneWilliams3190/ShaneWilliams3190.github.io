@@ -2,18 +2,18 @@
 
 ---
 
-### Learn About My Projects
+### **Learn About My Projects**
 
 ---
-### Mirosoft Excel Projects
+### *Mirosoft Excel Projects*
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
+#### [Food Delivery Consumer Project](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
 [<img src="images/food-delivery.jpg?raw=true"/>](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
 Being a consumer that has used a similar delivery service for products, I was interested to see what insights I could find about shopper vs marketing.  I was surprised by a few things I found from the data and others were exactly what I expected. 
 
 ---
-### Tableau Projects
+### *Tableau Projects*
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
@@ -24,7 +24,7 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-### SQL Projects
+### *SQL Projects*
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
