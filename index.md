@@ -36,7 +36,7 @@ What are the top math schools in the state?
 
 ---
 #### [Intro to SQL via the World Bank]()
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/SQL_Bank_Project.jpg"/>]()
 I really enjoy using SQL, at times it can be challenging, but it does get easier over time. If you have never used SQL before, I hope this project intrigues you to learn it. SQL is a strong tool to have in your toolbox for the data career field. 
 
 ---
