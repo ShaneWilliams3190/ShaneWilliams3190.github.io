@@ -2,10 +2,10 @@
 
 ---
 
-### **Learn About My Projects**
+## **Learn About My Projects**
 
 ---
-### *Mirosoft Excel Projects*
+## *Mirosoft Excel Projects*
 
 ---
 #### [Food Delivery Consumer Project](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
@@ -13,7 +13,7 @@
 Being a consumer that has used a similar delivery service for products, I was interested to see what insights I could find about shopper vs marketing.  I was surprised by a few things I found from the data and others were exactly what I expected. 
 
 ---
-### *Tableau Projects*
+## *Tableau Projects*
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
@@ -24,12 +24,12 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-### *SQL Projects*
+## *SQL Projects*
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Intro to SQL via the World Bank]()
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+I really enjoy using SQL, at times it can be challenging, but it does get easier over time. If you have never used SQL before, I hope this project intrigues you to learn it. SQL is a strong tool to have in your toolbox for the data career field. 
 
 ---
 
