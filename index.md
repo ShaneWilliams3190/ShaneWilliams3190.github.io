@@ -23,7 +23,7 @@ Being a consumer that has used a similar delivery service for products, I was in
 
 ---
 #### [Education Project](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
-[<img src="images/Massachusetts_School.jpg?raw=true"/>](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
+[<img src="images/Massachusetts_Schools.jpg?raw=true"/>](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
