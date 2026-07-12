@@ -5,15 +5,23 @@
 ### Learn About My Projects
 
 ---
+### Mirosoft Excel Projects
+
+---
 #### [External Link Project](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
 [<img src="images/food-delivery.jpg?raw=true"/>](https://www.linkedin.com/pulse/ifood-things-consider-growth-customer-retention-shane-williams-yaq9c/)
 Being a consumer that has used a similar delivery service for products, I was interested to see what insights I could find about shopper vs marketing.  I was surprised by a few things I found from the data and others were exactly what I expected. 
 
+---
+### Tableau Projects
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+
+---
+### SQL Projects
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
