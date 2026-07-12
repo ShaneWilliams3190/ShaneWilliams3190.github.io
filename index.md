@@ -1,4 +1,4 @@
-#### [<img src="images/Tools_Banner.png?raw=true"/>]
+### <img src="images/Tools_Banner.png?raw=true"/>
 
 
 
