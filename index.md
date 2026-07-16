@@ -26,10 +26,12 @@ Being a consumer that has used a similar delivery service for products, I was in
 #### [Education Project](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
 [<img src="images/Massachusetts_Schools.jpg?raw=true"/>](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
 
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
+In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data.
+
+The main focuses were:
+What are the school's graduating percentages?
 How does class size affect college admission?
-What are the top math schools in the state? 
+Which are the school districts % of passing 4th grade math, and which schools are higher than 50%?
 
 ---
 ## *SQL Projects*
