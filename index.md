@@ -29,8 +29,11 @@ Being a consumer that has used a similar delivery service for products, I was in
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data.
 
 The main focuses were:
+
 What are the school's graduating percentages?
+
 How does class size affect college admission?
+
 Which are the school districts % of passing 4th grade math, and which schools are higher than 50%?
 
 ---
