@@ -25,7 +25,7 @@ Being a consumer that has used a similar delivery service for products, I was in
 ---
 #### [Education Project (Dashboard)](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
 #### [Education Project (LinkeIn Writeup)](https://https://www.linkedin.com/pulse/review-insights-massachusetts-education-system-shane-williams-mmtzc/).
-[<img src="images/Massachusetts_Schools.jpg?raw=true"/>](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
+[<img src="images/Education_Project.png?raw=true"/>](https://public.tableau.com/app/profile/shane.williams8245/vizzes)
 
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data.
 
