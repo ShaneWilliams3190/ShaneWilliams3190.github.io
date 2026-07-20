@@ -44,7 +44,7 @@ Which are the school districts % of passing 4th grade math, and which schools ar
 #### [Intro to SQL via the World Bank]()
 [<img src="images/World_Bank_Project.png"/>]()
 
-I really enjoy using SQL, at times it can be challenging, but it does get easier over time. If you have never used SQL before, I hope this project intrigues you to learn it. SQL is a strong tool to have in your toolbox for the data career field. 
+I focused this project on the Republic of Yemen and their COVID-19 project loans. 
 
 ---
 
