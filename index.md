@@ -41,7 +41,7 @@ Which are the school districts % of passing 4th grade math, and which schools ar
 ## *SQL Projects*
 
 ---
-#### [SQL Analysis of the World Bank]()
+#### [SQL Analysis of the World Bank](https://www.linkedin.com/pulse/sql-analysis-world-bank-group-shane-williams-yggfc/)
 [<img src="images/World_Bank_Project.png"/>](https://www.linkedin.com/pulse/sql-analysis-world-bank-group-shane-williams-yggfc/)
 
 I focused this project on the Republic of Yemen and their COVID-19 project loans. 
